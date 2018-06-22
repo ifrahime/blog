@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Brahim MOUNTASSIR",
+    "label": "Software engineer",
+    "picture": "https://avatars2.githubusercontent.com/u/7092264?s=400&u=1f5f7ae35c5ff216043f50db40a68b3cb30f358c&v=4",
+    "email": "mountassir.brahim@gmail.com",
+    "phone": "0033616905768",
+    "summary": "Hello,My name is Brahim, I am a passionated Java developer. My specialities are Gwt for frontend and Java for backend.I love learning new technologies like React and NodeJs. Moreover, I used to learn software architecture books. My preferred one is 'Clean Architecture' written by Robert C. Martin. Besides technology, my hobbies and interests are gym, soccer, reading, cooking.",
+    "location": {
+      "address": "1 RUE BLANQUI",
+      "postalCode": "33560",
+      "city": "CARBON BLANC",
+      "countryCode": "FR",
+      "region": "AQUITAINE"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "username": "brahim",
+      "url": "https://fr.linkedin.com/in/brahim-mountassir-b65bbaa1"
+    }]
+  },
+  "work": [{
+      "company": "OAB (Orange Applications for Business)",
+      "position": "Java Software Engineer",
+      "location": "Bordeaux",
+      "startDate": "2015-10-01",
+      "endDate": "",
+      "summary": "Soft 4 CMS, develop different tools that manage and display the Orange customer products and offers.",
+      "environments": ["Java8",
+      "ELK stack (Elasticsearch, Logstash, Kibana)",
+      "Spring",
+      "Bench",
+      "testing",
+      "Oracle",
+      "Sql Server",
+      "GWT"]
+    },{
+      "company": "OAB (Orange Applications for Business)",
+      "position": "Java Developer",
+       "location": "Rennes",
+      "startDate": "2015-07-01",
+      "endDate": "2015-08-01",
+      "summary": "L-CRI portal, develop L-CRI portal that evaluate Orange applications in terms of resources usage (Linux machines, oracle database…)",
+      "environments": [
+        "Java 8",
+        "Jhypster",
+        "AngularJS"
+      ]
+    },{
+ "company": "OAB (Orange Applications for Business)",
+      "position": "Internship",
+       "location": "Rennes",
+      "startDate": "2015-03-01",
+      "endDate": "2015-07-01",
+      "summary": "Industrialization of JavaScript development",
+      "environments": ["Yeoman",
+      "Grunt and Gulp",
+      "Unit testing: Jasmine, Mocha, Qunit and Intern.js",
+      "Functional testing: Protractor",
+      "Sonar and Jenkins for continous integration"]
+  },
+{
+ "company": "AZNetwork",
+      "position": "Software developer",
+       "location": "Rennes",
+      "startDate": "2014-11-01",
+      "endDate": "2015-03-01",
+      "summary": "Silver@home: Telemonitoring Senior at home, develop web application that allows to monitor patients at home",
+      "environments": ["Java",
+      "Mysql",
+      "Drools",
+      "JQuery",
+      "Html5",
+      "CSS (Boostrap)"]
+},
+{
+ "company": "ICT Labs (Lizenn)",
+      "position": "Internship: Software developer",
+       "location": "Rennes",
+      "startDate": "2013-06-01",
+      "endDate": "2015-09-01",
+      "summary": "Develop the frontend Occi-JS that manage Cloud infrastructures",
+      "environments": ["Angular 1.5",
+      "Mongoose"]
+}
+    ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "The graduated School of Engineering of Rennes",
+    "area": "Software Development",
+    "studyType": "Master degree",
+    "startDate": "2012",
+    "endDate": "2015"
+  },{
+    "institution": "Ibn Taymia",
+    "area": "dd",
+    "studyType": "Preparatory classes",
+    "startDate": "2011",
+    "endDate": "2012"
+    }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}
